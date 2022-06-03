@@ -3,5 +3,4 @@
 *.vcxproj
 *.vs
 *Debug
-*resource
 *.filters
